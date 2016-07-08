@@ -4,7 +4,7 @@ A collection of all of my cydia tweaks.
 
 # Current Tweaks
   - 1) Password Logger - It will log all (attempted) entries into User/Documents/PasswordLogger/Log.txt
-    * [com.fmancoding.passwordlogger](www.fmancoding.com/repos/site/passwordlogger.html)
+    * [com.fmancoding.passwordlogger](http://www.fmancoding.com/repos/site/passwordlogger.html)
 
 # Current Apps
   - 1) Tennis Scoreboard - Easily track a tennis match without knowing how the scoring works.
