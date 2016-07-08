@@ -4,7 +4,7 @@ A collection of all of my cydia tweaks. Those that are done and still in progres
 
 # Current Tweaks
 <p>
-  ..* 1) Password Logger - It will log all (attempted) entries into User/Documents/PasswordLogger/Log.txt
+  ⋅⋅* 1) Password Logger - It will log all (attempted) entries into User/Documents/PasswordLogger/Log.txt
 </p>
 
 # Current Apps
